@@ -10,6 +10,8 @@ package idealo.tsk.vs1.main;
  *---------------------------------------------------------*/
 
 
+import idealo.tsk.vs1.processFile.ProcessFile;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
